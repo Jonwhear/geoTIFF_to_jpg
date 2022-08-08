@@ -1,2 +1,5 @@
-# geoTIFF_to_jpg
-Convert USGS geoTIFF (.tif) files to .jpg images
+USGS Downloader: https://apps.nationalmap.gov/downloader/
+    - Select map area for height data
+    - Chose "Elevation Product (3DEP)" in desired resolution
+    - Click "Find Products"
+    - Download .tif files and save to drive
