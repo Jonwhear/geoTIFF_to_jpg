@@ -46,4 +46,4 @@ if img.mode != 'RGB':
     img = img.convert('RGB')
 
 # Save .jpg image
-img.save(sn)
+img.save(sp)
